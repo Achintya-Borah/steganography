@@ -39,3 +39,4 @@ $ ./install.sh
 https://www.github.com/Achintya-Borah
 * Have a nice day !
 ## 📌 ***Screenshot*** :
+![IMG_20200804_215751](https://user-images.githubusercontent.com/69204819/89320787-7de48c00-d671-11ea-805e-5d2ba3fd0145.jpg)
