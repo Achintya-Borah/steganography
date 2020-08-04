@@ -34,4 +34,8 @@ $ chmod +x *
 ```
 ```
 $ ./install.sh
+```
+### My GitHub ID link:
+https://www.github.com/Achintya-Borah
+* Have a nice day !
 ## 📌 ***Screenshot*** :
