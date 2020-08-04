@@ -4,6 +4,6 @@
 </p>
 
 ## 👨‍💻 ***About steganography***:
-Author : Achintya Borah
+Author : Achintya Borah.
 This tool makes steganography easier on both Termux and Linux OS. You can Hide important files in images from this tool.
 
