@@ -1,4 +1,4 @@
-<h1 align="center">STEGANOGRAPHY</h1>
+<h1 align="center">Steganography</h1>
 <p align="center">
       A new easy to use tool for steganography for HACKERS..
 </p>
