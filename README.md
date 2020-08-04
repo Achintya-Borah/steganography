@@ -1,7 +1,7 @@
-<h1 align="center">IG-HACK v1.0</h1>
+<h1 align="center">🕵‍♂STEGANOGRAPHY👨‍💻</h1>
 <p align="center">
-      A new automated script for Instagram Account hackig from bruteforce
+      A new easy to use tool for steganography for HACKERS..
 </p>
 
-##👨‍💻 ***About steganography***:
+## 👨‍💻 ***About steganography***:
 Author : Achintya Borah
