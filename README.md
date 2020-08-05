@@ -9,7 +9,7 @@ This tool makes steganography easier on both Termux and Linux OS. You can Hide i
 
 ### 📌 ***this tool is available for***:
 
-* Termux  Linux OS
+* Termux , Linux OS
 ### 📌 ***Installation and usage guide***:
 ```
 $ apt-get update -y
