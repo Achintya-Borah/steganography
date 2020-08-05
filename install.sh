@@ -23,7 +23,9 @@ cp -r start.py /usr/bin/stegano
 chmod +x * /usr/bin/stegano
 clear
 sleep 1
-echo -e "\e[1;32m[+]$pink Installation done ! .. Type stegano in the terminal"
+echo -e "\e[1;32m[+]$pink Installation done ! .. Type stegano in the current directory"
+echo "
+"
 elif [[ $os == "2" ]];then
 echo -e "\e[1;32minstalling for Termux.............."
 sleep 1
@@ -36,6 +38,8 @@ apt-get install cat
 clear
 sleep 1
 echo -e "\e[1;32m[+]$pink Installation done ! Type 'python start.py' to start."
+echo "
+"
 
 else
 echo invalid output !!
