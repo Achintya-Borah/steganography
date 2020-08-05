@@ -6,10 +6,13 @@
 ## 👨‍💻 ***about steganography***:
 Author : Achintya Borah.
 This tool makes steganography easier on both Termux and Linux OS. You can Hide important files in images from this tool.
+
 [![Build Status](https://img.shields.io/github/stars/Achintya-Borah/steganography.svg)](https://github.com/Achintya-Borah/steganography)
 [![Build Status](https://img.shields.io/github/forks/Achintya-Borah/steganography.svg)](https://github.com/Achintya-Borah/steganography)
 [![License: MIT](https://img.shields.io/github/license/Achintya-Borah/steganography.svg)](https://github.com/Achintya-Borah/steganography)
-
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![IMG_20200804_215751](https://user-images.githubusercontent.com/69204819/89320787-7de48c00-d671-11ea-805e-5d2ba3fd0145.jpg)
 ### 📌 ***this tool is available for***:
 
 * Termux , Linux OS
